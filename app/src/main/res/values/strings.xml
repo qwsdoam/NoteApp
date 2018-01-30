@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="note_sure_q">Вы хотите удалить?</string>
+    <string name="note_text">Записка</string>
+</resources>
