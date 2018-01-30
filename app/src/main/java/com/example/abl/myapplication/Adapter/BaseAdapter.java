@@ -1,9 +1,5 @@
 package com.example.abl.myapplication.Adapter;
 
-/**
- * Created by ABL on 30.01.2018.
- */
-
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -21,10 +17,6 @@ import com.example.abl.myapplication.Sqlite.SqliteN;
 
 import java.util.List;
 
-
-/**
- * Created by Isfahani on 28-Agu-16.
- */
 public class BaseAdapter extends RecyclerView.Adapter<BaseHolder> {
 
     Context context;
