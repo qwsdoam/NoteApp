@@ -17,6 +17,10 @@ import com.example.abl.myapplication.Sqlite.SqliteN;
 
 import java.util.List;
 
+/**
+ * Created by ABL on 30.01.2018.
+ */
+
 public class BaseAdapter extends RecyclerView.Adapter<BaseHolder> {
 
     Context context;
